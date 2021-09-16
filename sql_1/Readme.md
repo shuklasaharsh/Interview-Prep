@@ -52,4 +52,12 @@
     <td></td>
   </tr>
 </table>
+
+### Secondary Task
+- Populate the Database and create Queries which gets the total balance using balance sheet.
+- Get Name of top 10 customers by networth and credit limit:
+  - Priority of customer given by:
+    - Credit limit > 600 && Balance
+    - If Credit limit < 600: Balance does not matter.
+- _Time Limit: 60 Mins_
     
